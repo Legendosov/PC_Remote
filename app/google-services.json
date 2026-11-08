@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079949922945",
+    "firebase_url": "https://pc-remote-e8738-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pc-remote-e8738",
+    "storage_bucket": "pc-remote-e8738.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079949922945:android:3b9d3603dcd12028eb7380",
+        "android_client_info": {
+          "package_name": "com.example.pcremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079949922945-19k6pvern36u8oobsndqqap8jhiikm28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pcremote",
+            "certificate_hash": "c6b0f01b607908af5a862421e1d5442fa73d85d1"
+          }
+        },
+        {
+          "client_id": "1079949922945-3e8a5msli3fui3rknhgeu69deuhabmgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhuAB2NQ899_5Xewpja7GMirAlwvPEiLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079949922945-3e8a5msli3fui3rknhgeu69deuhabmgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
